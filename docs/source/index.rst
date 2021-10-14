@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+CO2-H20-zeolite-adsorption
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
