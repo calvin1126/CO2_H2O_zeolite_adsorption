@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
    
-   overview
-   optimization
+   Overview
+   Optimization
