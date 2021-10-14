@@ -1,10 +1,9 @@
-CO2-H20-zeolite-adsorption
+CO2-H2O-zeolite-adsorption
 ===================================
 
 This project is to understand the CO2 adsorption behavior in zeolite under humid conditions.
 
-Check out the :doc:`overview` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`overview` section for further information
 
 .. note::
 
