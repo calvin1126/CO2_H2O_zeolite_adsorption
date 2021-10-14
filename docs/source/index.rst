@@ -1,12 +1,9 @@
 CO2-H20-zeolite-adsorption
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This project is to understand the CO2 adsorption behavior in zeolite under humid conditions.
 
-Check out the :doc:`usage` section for further information, including
+Check out the :doc:`overview` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -18,5 +15,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   overview
+   optimization
