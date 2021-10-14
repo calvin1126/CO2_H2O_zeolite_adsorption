@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CO2-H2O-Zeolites-Adsorption'
+copyright = '2021, Kun-Lin'
+author = 'Kun-Lin'
 
 release = '0.1'
 version = '0.1.0'
